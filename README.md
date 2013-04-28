@@ -1,4 +1,4 @@
-dotvim
-======
+.vim
+=====
 
-My  configuration
+My .vim configuration :)
