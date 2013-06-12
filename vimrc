@@ -15,7 +15,6 @@ endif
 
 " various options
 set number 
-set spell
 set hlsearch
 set showmatch
 set incsearch
