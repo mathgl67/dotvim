@@ -28,12 +28,12 @@
 [submodule "bundle/zencoding-vim"]
 	path = bundle/zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
 [submodule "bundle/vim-dokuwiki"]
 	path = bundle/vim-dokuwiki
 	url = https://github.com/nblock/vim-dokuwiki.git
 [submodule "bundle/vim-coffee-script"]
 	path = bundle/vim-coffee-script
 	url = https://github.com/kchmck/vim-coffee-script
-[submodule "bundle/vim-colors-desert"]
-	path = bundle/vim-colors-desert
-	url = git://github.com/fugalh/desert.vim.git

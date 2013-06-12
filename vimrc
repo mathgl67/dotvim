@@ -10,7 +10,7 @@ set softtabstop=4
 " define my color scheme 
 if has('gui_running')
     set background=dark
-    colorscheme desert 
+    colorscheme solarized
 endif
 
 " various options
